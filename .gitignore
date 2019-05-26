@@ -1,0 +1,8 @@
+.pio
+.pioenvs
+.piolibdeps
+CMakeListsPrivate.txt
+cmake-build-debug
+.idea
+
+include/secure.h
